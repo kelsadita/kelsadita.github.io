@@ -1,16 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Recommender System
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Collaborative-filtering based movie recommendation system built using the MovieLens dataset.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Performance Prediction
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Web application developed in CodeIgniter that uses models trained with ID3 and C4.5 algorithms to predict the performance of undergraduate students based on their past academic & personal details.
+
+- project: Placement Portal
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: A PHP-based web application to collect and manage the academic and personal details of students and generate campus recruitment specific statistics.
+
+- project: BuyIt
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: Web application built using React, Express & MongoDB to track savings for the items in the wishlist.
+

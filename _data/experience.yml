@@ -1,19 +1,27 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: University of Southern California
+  position: Graduate Student Researcher
+  duration: Aug, 2018 &mdash; Present
+  summary: Working on a Data-Driven Journalism based project under Prof. Yao-Yi Chiang to uncover interesting patterns from Los Angeles crime data.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: University of Southern California (Graduate School)
+  position: Student Assistant Programmer
+  duration:  Jan, 2018 &mdash; Nov, 2018
+  summary: Led the development of an administrative dashboard to manage, model and analyze graduate students’ data.
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: WebShar India Pvt. Ltd.
+  position: Senior Software Engineer
+  duration:   June, 2013  &mdash; Nov, 2017
+  summary:
+    <ul>
+      <li>Achieved a performance gain of 50% by rewriting the existing Rule Engine module to generate highly relevant clinical coding suggestions for clinical phrases in the medical notes.</li>
+      <li>Improved the precision and recall metrics of the NLP engine to the range of 90-95% by developing a Java-based pre-processing engine to identify sentences, sections, list items etc. from medical notes.</li>
+      <li>Collaborated in the development of a platform to monitor and process a large number of medical notes with the help of CDH (Cloudera Distribution Including Apache Hadoop).</li>
+      <li>Developed a search service using Apache Lucene to get clinical coding suggestions for the given clinical phrase.</li>
+      <li>Built a Topic Modeling system to derive categories from medical notes using the implementation of Latent Dirichlet Allocation algorithm from scikit-learn</li>
+      <li>Implemented and evaluated classification models using scikit-learn to identify risk level associated with patients based on their medical history.</li>
+      <li>Engineered a medical notes encryption pipeline in Java using AWS Encryption SDK.</li>
+      <li>Spearheaded the development of an administrative dashboard using Spring MVC & AngularJS to manage access levels of all the applications in the platform.</li>
+    </ul>
