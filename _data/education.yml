@@ -17,11 +17,22 @@
   uni: University of Mumbai
   year: Aug 2009 &mdash; May 2013
   summary:
-    <b>Coursework:</b>
+    <b>Relevant Coursework:</b>
     <ul>
-      <li>Analysis of Algorithms</li>
-      <li>Foundations of Artificial Intelligence</li>
-      <li>Foundations and Applications of Data Mining</li>
-      <li>Applied Natural Language Processing</li>
+      <li>Discrete Structures & Graph Theory</li>
+      <li>Data Structures & Files</li>
+      <li>Database Management System</li>
+      <li>Analysis of Algorithms & Design</li>
+      <li>Advance Database Management System</li>
+      <li>Theory of Computer Science</li>
+      <li>Web Engineering</li>
+      <li>Data Warehouse & Mining</li>
+      <li>Robotics & AI</li>
+      <li>Distributed Computing</li>
+      <li>Software Architecture</li>
     </<ul>
   # award: Most likely to succeed
+  # <li>Computer Graphics</li>
+  # <li>Operating System</li>
+  # <li>Computer Network</li>
+  # <li>Computer Organization & Architecture</li>
