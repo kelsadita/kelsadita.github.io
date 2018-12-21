@@ -1,5 +1,5 @@
 # Site settings
-title: "Kalpesh Adhatrao"
+title: "Kalpesh Uday Adhatrao"
 description: "Graduate Student at the University of Southern California pursuing MS in Computer Science(Data Science)"
 
 # Build settings
@@ -38,6 +38,7 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_extracurricular: true
+resume_section_publications:    true
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
